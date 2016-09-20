@@ -1,3 +1,6 @@
 [submodule "CounterWebApp"]
 	path = CounterWebApp
 	url = https://github.com/murtazalw/CounterWebApp.git
+[submodule "counterwebapp-java"]
+	path = counterwebapp-java
+	url = https://github.com/murtazalw/counterwebapp-java
