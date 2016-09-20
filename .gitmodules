@@ -7,3 +7,6 @@
 [submodule "counterwebapp-A"]
 	path = counterwebapp-A
 	url = https://github.com/murtazalw/counterwebapp-A.git
+[submodule "counterwebapp-B"]
+	path = counterwebapp-B
+	url = https://github.com/murtazalw/counterwebapp-B.git
