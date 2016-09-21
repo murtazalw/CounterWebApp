@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CounterWebApp.iml" filepath="$PROJECT_DIR$/.idea/CounterWebApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CounterWebApp.iml" filepath="$PROJECT_DIR$/CounterWebApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>
