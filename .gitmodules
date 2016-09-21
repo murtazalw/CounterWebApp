@@ -1,0 +1,3 @@
+[submodule "counterwebapp-B"]
+	path = counterwebapp-B
+	url = https://github.com/murtazalw/counterwebapp-B.git
